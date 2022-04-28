@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/travel_guide_app/static/css/main.967a31e5.css",
+    "main.js": "/travel_guide_app/static/js/main.0920fedf.js",
+    "static/media/hero.png": "/travel_guide_app/static/media/hero.023f2c2afeeeddb16e64.png",
+    "static/media/Destination5.png": "/travel_guide_app/static/media/Destination5.4bce456e20456bf27221.png",
+    "static/media/Destination4.png": "/travel_guide_app/static/media/Destination4.cd23bb54e2826031bf46.png",
+    "static/media/Destination6.png": "/travel_guide_app/static/media/Destination6.c55c21252c6784776fda.png",
+    "static/media/Destination1.png": "/travel_guide_app/static/media/Destination1.394785193b54f9c6aca4.png",
+    "static/media/Destination3.png": "/travel_guide_app/static/media/Destination3.8c3e25de2276cc31721d.png",
+    "static/media/Destination2.png": "/travel_guide_app/static/media/Destination2.b44f8059589afa08e393.png",
+    "static/media/pic2.jpg": "/travel_guide_app/static/media/pic2.493b2b98cac22f65d03b.jpg",
+    "static/media/service1.png": "/travel_guide_app/static/media/service1.8956744bfccb4d88104b.png",
+    "static/media/info1.png": "/travel_guide_app/static/media/info1.917c10f6f5b2003d22a2.png",
+    "static/media/service4.png": "/travel_guide_app/static/media/service4.3245c70223b195fb1174.png",
+    "static/media/service3.png": "/travel_guide_app/static/media/service3.5cabe3e810144f5c42e1.png",
+    "static/media/pic3.jpg": "/travel_guide_app/static/media/pic3.322bc181fc06cdb0188d.jpg",
+    "static/media/info2.png": "/travel_guide_app/static/media/info2.6ffe03236a0d1bfc3e95.png",
+    "static/media/logo1.png": "/travel_guide_app/static/media/logo1.08668bfbafc73e1fe70d.png",
+    "static/media/logo.png": "/travel_guide_app/static/media/logo.3984e21fc093ef0a71af.png",
+    "static/media/info3.png": "/travel_guide_app/static/media/info3.ae92e785bdb73e05e08d.png",
+    "index.html": "/travel_guide_app/index.html",
+    "main.967a31e5.css.map": "/travel_guide_app/static/css/main.967a31e5.css.map",
+    "main.0920fedf.js.map": "/travel_guide_app/static/js/main.0920fedf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.967a31e5.css",
+    "static/js/main.0920fedf.js"
+  ]
+}
